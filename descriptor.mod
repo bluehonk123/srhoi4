@@ -71,6 +71,7 @@ replace_path="common/units"
 replace_path="common/wargoals"
 replace_path="map/strategicregions"
 replace_path="map/supplyareas"
-name="SRHoi4 MP"
-supported_version="1.10.*"
-remote_file_id="2096807769"
+
+name="GFU"
+supported_version="1.9.*"
+
